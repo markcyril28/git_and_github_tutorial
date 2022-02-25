@@ -12,4 +12,5 @@ print("This is going to be committed using PyCharm")
 print("This is going to be committed using the terminal")
 print("Another change")
 print("This will added to the new branch")
+print("This is going to be pushed using PyCharm")
 
